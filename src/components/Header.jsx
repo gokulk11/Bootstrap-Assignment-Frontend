@@ -3,7 +3,7 @@ import React from "react";
 const Header = () => {
   return (
     <>
-      <div className="border d-flex justify-content-between my-2 p-2 p-md-3  ">
+      <div className="d-flex justify-content-between my-2 p-2 p-md-3  ">
         <h1>
           <span className=" text-success ">B</span>uzz
         </h1>
